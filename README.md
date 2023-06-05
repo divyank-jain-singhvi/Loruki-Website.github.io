@@ -10,15 +10,14 @@ Benifits of this project is we can host our code in internet which support a abo
 
 ## :film_projector: Output Recording
 
-https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/d142ac8c-b4a4-4c5b-a0b0-8ea6875e00e1
 
 # :rainbow: How To Setup Enviroment
 <ol>
-  <li>Install the environment to run Python as Anacond , VScode, etc.</li>
-  <li> Download the python extension and .runner if you are using Vs code OR If you are using an Anaconda Open Spider or Jupytor</li>
-  <li> Open the folder and Code File in the environment which you install</li>
-  <li>Downloard tkinter liberary using 'pip install tkinter' in anaconda PowerShell Prompt for anaconda and 'python install tkinter' in terminal for VScode</li>
-  <li>Run the code and give input and solve the matrix calculation</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
  </ol>
  
  # :mag: Contact
