@@ -7,9 +7,13 @@ Benifits of this project is we can host our code in internet which support a abo
 # :film_strip: DESKTOP:
 ## :camera: SCREENSHORT:
 
-[Loruki website](https://github.com/divyank-jain-singhvi/Loruki-Website.github.io/assets/119522879/1893ddfd-73cd-40f9-9e03-80831105e591)
+![Screenshot (29)](https://github.com/divyank-jain-singhvi/Loruki-Website.github.io/assets/119522879/f285960d-b9cd-4e27-a380-d44b15040c30)
 
-# :MOBILE
+![Screenshot (30)](https://github.com/divyank-jain-singhvi/Loruki-Website.github.io/assets/119522879/dbb25609-58f8-4b37-a722-5caffed8a1fd)
+
+![Screenshot (31)](https://github.com/divyank-jain-singhvi/Loruki-Website.github.io/assets/119522879/0ddcf249-e004-43b5-ba33-ec50af08c99b)
+
+# MOBILE
 
 ![WhatsApp Image 2023-06-06 at 17 46 19](https://github.com/divyank-jain-singhvi/Loruki-Website.github.io/assets/119522879/391a5eb2-3450-4697-99a4-f509864ce6b4)
 
