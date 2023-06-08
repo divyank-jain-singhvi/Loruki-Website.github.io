@@ -35,16 +35,11 @@ Benifits of this project is we can host our code in internet which support a abo
 
 
 
-# :rainbow: How To Setup Enviroment!
-<ol>
-  <li></li>
-  <li></li>
+# :rainbow: link of website !
 
-  <li></li>
-  <li></li> 
 
-  <li></li>
- </ol>
+https://divyank-jain-singhvi.github.io/Loruki-Website.github.io/
+
  
  # :mag: Contact
  
