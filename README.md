@@ -1,6 +1,11 @@
 # :abacus: LORUKI WEBSITE
 This website is used to upload a code in a cloud but this is designed only by HTML and CSS there is no backend or any database to store this website has multiple language suppor as <ol><li>Node JS</li> <li>Python</li> <li>C#</li> <li>Ruby</li><li>PHP</li> <li>Scala</li><li>Clojure</li></ol>
 
+# TECHNOLOGY
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ </ul>
 # :mag: OVERVIEW
 Benifits of this project is we can host our code in internet which support a above languages this is a frame work using HTML and CSS to this website cant do any operation.
 
