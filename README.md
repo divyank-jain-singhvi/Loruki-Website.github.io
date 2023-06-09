@@ -30,17 +30,12 @@ Benifits of this project is we can host our code in internet which support a abo
 ![WhatsApp Image 2023-06-06 at 17 42 08](https://github.com/divyank-jain-singhvi/Loruki-Website.github.io/assets/119522879/7bf815f3-1721-44b8-8d96-f4e991c36e4d)
 ## :film_projector: Output Recording
 
-
-
-
-
+https://github.com/divyank-jain-singhvi/Loruki-Website.github.io/assets/119522879/f28efc08-6608-4b0a-9a0a-fc204852eeb6
 
 # :rainbow: link of website !
 
-
 https://divyank-jain-singhvi.github.io/Loruki-Website.github.io/
 
- 
  # :mag: Contact
  
 ## Developer: Divyank Jain Singhvi 
